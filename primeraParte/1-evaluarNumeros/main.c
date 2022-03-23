@@ -22,8 +22,8 @@ int main()
 
 
     int menoresDe15 = 0, mayorDe50 = 0, entre25_45 = 0;
-    // codicionando las outputs de las variables
 
+    // codicionando las outputs de las variables
     if ( primerNumero <= 15){
         menoresDe15 = menoresDe15 + 1;
     } else if ( primerNumero >= 50) {
@@ -73,14 +73,9 @@ int main()
     }
 
 
-
-
-
     printf("\nmenores de 15: %d \n", menoresDe15);
     printf("mayores de 50: %d \n", mayorDe50);
     printf("entre 25 y 45: %d \n", entre25_45);
-
-
 
 
     return 0;
