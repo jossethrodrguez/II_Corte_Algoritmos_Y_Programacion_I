@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648047821 source:/home/linuxlite/workspace/university_MarzoJunio2022/algoritmoYprogramacionI/II_Corte/segundaParte/1-teLoDevuelvo/teLoDevuelvo/main.c
+	<stdio.h>
+	<stdlib.h>
+
