@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648045690 source:/home/linuxlite/workspace/installCodeblocks/learning/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648046674 source:/home/linuxlite/workspace/homework/II_Corte/evaluarNumeros/main.c
+	<stdio.h>
+	<stdlib.h>
+
