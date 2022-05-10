@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652189920 source:/home/linuxlite/workspace/university_MarzoJunio2022/algoritmoYprogramacionI/II_Corte/primeraParte/3-while120/while120/main.c
+	<stdio.h>
+	<stdlib.h>
+

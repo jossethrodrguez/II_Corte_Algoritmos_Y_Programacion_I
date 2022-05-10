@@ -1,0 +1,17 @@
+Programa que solicite dos numeros menores de 120
+que el programa muestre el producto entre los dos numeros
+si los numeros no son positivos o mayor o igual a 120 el programa nos lo dice,y finaliza
+el programa nos pregunta al final si queremos volver a empezar
+
+1 - solicitar los dos valores
+
+2 - realizar el productos y mostrarlo
+
+
+3 - condicionales
+	- si es > 120 ||  < 0
+	que lo muestre y  finalize
+	- si no es ninguna
+	que lo muestre
+
+4 - esta condicion estara englobada en un while
