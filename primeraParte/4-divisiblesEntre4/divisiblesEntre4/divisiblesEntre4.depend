@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652208290 source:/home/linuxlite/workspace/university_MarzoJunio2022/algoritmoYprogramacionI/II_Corte/primeraParte/4-divisiblesEntre4/divisiblesEntre4/main.c
+	<stdio.h>
+	<stdlib.h>
+
