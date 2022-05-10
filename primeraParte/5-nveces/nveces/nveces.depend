@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652213856 source:/home/linuxlite/workspace/university_MarzoJunio2022/algoritmoYprogramacionI/II_Corte/primeraParte/5-nveces/nveces/main.c
+	<stdio.h>
+	<stdlib.h>
+
