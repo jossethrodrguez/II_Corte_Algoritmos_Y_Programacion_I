@@ -1,2 +1,0 @@
-1- liste los numeros del 1 al 100 de 2 en 2
-al final indique cuantos numeros son divisibles en 4
