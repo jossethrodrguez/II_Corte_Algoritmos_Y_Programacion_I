@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652370395 source:/home/linuxlite/workspace/university_MarzoJunio2022/algoritmoYprogramacionI/II_Corte/primeraParte/7-10Calificaciones/10Calificaciones/main.c
+	<stdio.h>
+	<stdlib.h>
+
