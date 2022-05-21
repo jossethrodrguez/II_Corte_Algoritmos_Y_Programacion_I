@@ -1,4 +1,4 @@
-# II Corte Algoritmos Y Programacion_I
+# II Corte Algoritmos Y Programacion I
 Asignaciones del Segundo Corte  de Josseth Rodriguez en Uniojeda
 
 # Corte II – Unidad I
