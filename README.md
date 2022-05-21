@@ -1,6 +1,7 @@
 # II Corte Algoritmos Y Programacion_I
 Asignaciones del Segundo Corte  de Josseth Rodriguez en Uniojeda
 
+# Corte II – Unidad I
 # Ejercicios (20%) 
 - 1.) Plantea un algoritmo que donde el usuario introduzca 4 números y este evalúe: ¿ Cuántos son menores que 15 ? ¿ Cuántos son mayores que 50 ? ¿ Cuántos están en el rango entre 25 y 45 ?
 - 2.) Escriba un programa que convierta galones en litros. El programa deberá desplegar galones de 10 a 20 en incrementos de un galón y los litros equivalentes correspondientes. Use la relación que 1 galón contiene 3.785 litros.
@@ -15,34 +16,34 @@ Asignaciones del Segundo Corte  de Josseth Rodriguez en Uniojeda
 
 - Extra: Se desea leer 10 calificaciones aceptando únicamente las calificaciones que estén en el rango de 0 a 10. Al final sacar el promedio de las calificaciones
 
-#Corte II – Unidad III
-###Manejo de Cadenas de Caracteres.
+# Corte II – Unidad II
+### Manejo de Cadenas de Caracteres.
 
-#Ejercicios Prácticos (20%)
+# Ejercicios Prácticos (20%)
 
-- 1) Realice un programa que imprima un texto en pantalla dado por el usuario.
+- 1.) Realice un programa que imprima un texto en pantalla dado por el usuario.
 
-- 2) Realice un programa que imprima en pantalla el número de caracteres dentro
+- 2.) Realice un programa que imprima en pantalla el número de caracteres dentro
 de un string sin usar una biblioteca.
 >Ejemplo de entrada: un lobo solitario
 Ejemplo de salida: El largo de la cadena es: 17
-- 3) Realice un programa que imprima en pantalla un texto en pantalla dado por el usuario. Luego que este separe cada carácter.
+- 3.) Realice un programa que imprima en pantalla un texto en pantalla dado por el usuario. Luego que este separe cada carácter.
 >Ejemplo de entrada: Paracetamol
 Ejemplo de salida: P a r a c e t a m o l
-- 4) Realice un programa invierta los caracteres de una palabra.
+- 4.) Realice un programa invierta los caracteres de una palabra.
 >Ejemplo de entrada: Paracetamol
 Ejemplo de salida: lomatecaraP
-- 5) Realice un programa que cuente cuantas palabras hay en una oración.
+- 5.) Realice un programa que cuente cuantas palabras hay en una oración.
 >Ejemplo de entrada: Paracetamol
 Ejemplo de salida: lomatecaraP
-- 6) Escriba un programa en C para copiar una cadena a otra cadena.
+- 6.) Escriba un programa en C para copiar una cadena a otra cadena.
 
-- 7) Escriba un programa en C para contar el máximo de veces que aparece un carácter en una cadena que aparece en una cadena
+- 7.) Escriba un programa en C para contar el máximo de veces que aparece un carácter en una cadena que aparece en una cadena
 >Ejemplo de entrada:
 Cadena: “Juan Pedro Vargas Caraballo”
 Letra: “a”
 >Ejemplo de salida: 6
-- 8) Escriba un programa en C para extraer una substring de una string dada.
+- 8.) Escriba un programa en C para extraer una substring de una string dada.
 >Ejemplo de entrada:
 Cadena: “Mario”
 Posición para iniciar la extracción: 0
