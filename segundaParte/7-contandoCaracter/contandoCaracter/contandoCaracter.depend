@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653182555 source:/home/linuxlite/workspace/university_MarzoJunio2022/algoritmoYprogramacionI/II_Corte/segundaParte/7-contandoCaracter/contandoCaracter/main.c
+	<stdio.h>
+	<string.h>
+

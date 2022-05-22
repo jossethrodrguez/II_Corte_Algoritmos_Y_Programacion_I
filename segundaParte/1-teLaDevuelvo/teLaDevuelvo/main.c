@@ -6,8 +6,8 @@ int main()
     char fraseDelUsuario[30];
 
     printf("Introduce algo y yo te lo devolvere en pantalla: ");
-    scanf("%s", &fraseDelUsuario);
+    gets(fraseDelUsuario);
 
-    printf("\n%s\n",fraseDelUsuario);
+    printf("\ntu has escrito: %s\n",fraseDelUsuario);
     return 0;
 }
